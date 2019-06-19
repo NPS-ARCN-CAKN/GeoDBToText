@@ -22,3 +22,9 @@ Tested against ArcGIS 10.6.1
 The text files will be named according to the feature class they represent and will be exported into the same directory as the source geodatabase. Existing files will be overwritten without confirm.
 
 The tool is configured out of the box to use a pipe | character field delimiter by default to avoid software parsing confusion errors with the comma separated coordinate pairs standard to the Well Known Text geometry format. Users may change the fields delimiter from a pipe to any other character that meets their needs.
+
+# License
+U.S. Government Works
+Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under 17 U.S.C. § 105. Government works are by default in the U.S. Public Domain. 
+
+http://www.usa.gov/publicdomain/label/1.0/
