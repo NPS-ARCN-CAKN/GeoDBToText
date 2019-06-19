@@ -8,3 +8,12 @@ ESRI geodatabases are highly functional for day to day use but are highly likely
 Written by Scott D. Miller, Data manager, National Park Service Arctic Network Inventory and Monitoring Program, Fairbanks, AK.
 https://www.nps.gov/im/arcn/index.htm
 
+# How to use
+1. Download the files from this GitHub repository.
+2. Navigate to the GeoDBToText.tbx and open it.
+3. Right click the 'Geodatabase to text files' Python script tool.
+4. Click the Source tab
+5. Ensure the 'Script file' text box contains the correct path to GeoDBToText.py script.
+6. Execute the script by double clicking and follow the prompts
+
+The text files will be named according to the feature class they represent and will be exported into the same directory as the source geodatabase. Existing files will be overwritten without confirm.
