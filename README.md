@@ -7,6 +7,8 @@ ESRI geodatabases are highly functional for day to day use but are highly likely
 
 Written by Scott D. Miller, Data manager, National Park Service Arctic Network Inventory and Monitoring Program, Fairbanks, AK.
 https://www.nps.gov/im/arcn/index.htm
+2019-06-19
+Tested against ArcGIS 10.6.1
 
 # How to use
 1. Download the files from this GitHub repository.
