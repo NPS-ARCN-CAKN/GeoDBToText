@@ -15,7 +15,7 @@ Tested against ArcGIS 10.6.1
 # How to use
 1. Download the files from this GitHub repository and unzip them.
 2. Navigate to the files from step 1 and open GeoDBToText.tbx using ArcCatalog.
-3. Right click the 'Geodatabase to text files' Python script tool.
+3. Right click the 'Geodatabase to text files' Python script tool, and open Properties.
 4. Click the Source tab
 5. Ensure the 'Script file' text box contains the correct path to GeoDBToText.py script.
 6. Execute the script by double clicking and follow the prompts
